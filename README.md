@@ -2,7 +2,9 @@
 
 **`Estsatístico`**
 
-Sou Gilberg da Silva Pereira. Estudei o ensino médio eno Centro de Ensino Médio Setor Oeste - CEMSO. Atualmente, estou graduando em Estatística(Último Semestre em 1/2025) na Universidade de Brasília-UnB. aficionado por números e seus padrões. Meu perfil chamado "[Bergestatistico](https://www.instagram.com/bergestatistico/)".
+Olá, meu nome é Gilberg, sou Cientista de Dados em formação com sólida base em Estatística e forte domínio em Python, R e SQL. Tenho experiência em análise exploratória, modelagem preditiva e visualização de dados. Meu objetivo é transformar dados complexos em insights estratégicos que apoiem decisões de negócio.
+Já desenvolvi projetos que envolvem desde a limpeza e integração de grandes volumes de dados até a aplicação de machine learning para previsão de comportamento do consumidor e otimização de processos.
+Meu perfil chamado "[Bergestatistico](https://www.instagram.com/bergestatistico/)".
 
 <p align="left">
    <a href="https://github.com/Bergestat?tab=repositories&sort=stargazers">
